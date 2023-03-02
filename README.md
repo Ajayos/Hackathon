@@ -1,14 +1,19 @@
 ![githubpic](https://user-images.githubusercontent.com/126552313/221784874-670cd550-8440-4f18-bc5e-44257752c230.png)
 
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+## ***FARM CHANAKYA***
+``FARM CHANAKYA``
+
+
 ## Team members
-1. Name [github-account-url]
-2. 
-3. 
-4.
+1. [Ajay o s](https://github.com/Ajayos)
+2. [Fayiz k v](https://github.com/Fayizkv)
+3. [Abin paul](https://github.com/S91D3R)
+4. [Gautham Sumeer](https://github.com/GauthamSumeer)
 ## Team Id
-Team id here
+``` 
+id 
+```
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
