@@ -24,7 +24,8 @@ id
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
-[![Watch the video](https://github.com/Ajayos.png)](https://www.loom.com/share/14d7be1e25624d79937ad159c72a57ef)
+3. 
+ <video src='Video.mp4' width=180/>
 
 
 ## Libraries used
