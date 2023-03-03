@@ -24,8 +24,6 @@ id
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
-3. 
- <video src='Video.mp4' width=180/>
 
 
 ## Libraries used
