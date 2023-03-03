@@ -19,7 +19,7 @@ Informations and alerts are send to farmers via whatsapp.
 ``` 
 id 
 ```
-[** Link to product walkthrough**](https://www.loom.com/share/14d7be1e25624d79937ad159c72a57ef)
+[**Link to product walkthrough**](https://www.loom.com/share/14d7be1e25624d79937ad159c72a57ef)
 
 ## How it Works ?
 1. Explaining the working of project
